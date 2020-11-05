@@ -1,9 +1,10 @@
-Netflix React
+Netflix - Full-Stack app
 
 technologies:
-* TMDB api
-* Firebase on the backend
-* React hooks
+* TMDB API
+* React.js - Frontend
+* Firebase - backend
+* React Hooks
 * Styled-Components
 
 App Url : https://netflix-evyatar.web.app/
