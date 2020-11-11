@@ -51,8 +51,8 @@ background-image: ${props => `url(
 background-position: center center;
 color: white;
 object-fit: contain;
-height: 448px;
-`
+height: 448px;`
+
 const BANNER_CONTENT = styled.div`
 margin-left: 30px;
 padding-top: 140px;
